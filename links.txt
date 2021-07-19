@@ -1,3 +1,8 @@
-https://dl.google.com/android/repository/android-ndk-r23-beta5-linux.zip
-https://dl.google.com/android/repository/android-ndk-r22b-linux-x86_64.zip
-
+https://dl.google.com/android/repository/build-tools_r25.0.3-linux.zip
+https://dl.google.com/android/repository/build-tools_r26.0.3-linux.zip
+https://dl.google.com/android/repository/build-tools_r27.0.3-linux.zip
+https://dl.google.com/android/repository/build-tools_r24.0.3-linux.zip
+https://dl.google.com/android/repository/build-tools_r23.0.3-linux.zip
+https://dl.google.com/android/repository/build-tools_r22.0.1-linux.zip
+https://dl.google.com/android/repository/gcm_r03.zip
+https://dl.google.com/android/repository/platform-tools_r31.0.2-linux.zip
